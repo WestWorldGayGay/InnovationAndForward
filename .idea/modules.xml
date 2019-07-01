@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InnovationAndForward.iml" filepath="$PROJECT_DIR$/InnovationAndForward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TableItemC/OriginalCodeMven.iml" filepath="$PROJECT_DIR$/TableItemC/OriginalCodeMven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TableItemC/TableItemC.iml" filepath="$PROJECT_DIR$/TableItemC/TableItemC.iml" />
     </modules>
   </component>
 </project>
